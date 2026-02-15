@@ -1,0 +1,2 @@
+Process,Risk Severity (weight 30),Cost of Inaction (weight 25),Detectability (weight 20),Frequency (weight 15),Feasibility (weight 10),Weighted_Score
+Supplier Quality Monitoring & Qualification,5,4,4,4,3,4.2

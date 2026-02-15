@@ -1,0 +1,5 @@
+Scenario,Weighted_Score,Risk Severity,Cost of Inaction,Detectability,Frequency,Feasibility
+More Risk Focus,4.25,35,25,20,10,10
+Base,4.2,30,25,20,15,10
+More Frequency Focus,4.15,25,25,15,25,10
+More Feasibility Focus,4.13,28,22,20,15,15
