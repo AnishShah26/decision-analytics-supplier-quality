@@ -124,7 +124,3 @@ The analysis demonstrates:
 ## Key Takeaway
 
 This project illustrates how analytics can be used not merely to describe data, but to support executive-level decision-making and strategic prioritisation.
-
-
-## Repository Structure
-
